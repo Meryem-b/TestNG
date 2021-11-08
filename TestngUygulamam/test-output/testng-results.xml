@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="5" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="ClassSuite" duration-ms="170" started-at="2021-11-04T11:56:02 TRT" finished-at="2021-11-04T11:56:02 TRT">
+    <groups>
+    </groups>
+    <test name="TestClass" duration-ms="96" started-at="2021-11-04T11:56:02 TRT" finished-at="2021-11-04T11:56:02 TRT">
+      <class name="day1.module1">
+        <test-method status="PASS" signature="test2()[pri:0, instance:day1.module1@4f063c0a]" name="test2" duration-ms="20" started-at="2021-11-04T11:56:02 TRT" finished-at="2021-11-04T11:56:02 TRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- day1.module1 -->
+    </test> <!-- TestClass -->
+    <test name="TestClass2" duration-ms="23" started-at="2021-11-04T11:56:02 TRT" finished-at="2021-11-04T11:56:02 TRT">
+      <class name="day1.module2">
+        <test-method status="PASS" signature="APILoginCarLoad()[pri:0, instance:day1.module2@480bdb19]" name="APILoginCarLoad" duration-ms="3" started-at="2021-11-04T11:56:02 TRT" finished-at="2021-11-04T11:56:02 TRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- APILoginCarLoad -->
+        <test-method status="PASS" signature="MobileLoginCarLoad()[pri:0, instance:day1.module2@480bdb19]" name="MobileLoginCarLoad" duration-ms="2" started-at="2021-11-04T11:56:02 TRT" finished-at="2021-11-04T11:56:02 TRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileLoginCarLoad -->
+        <test-method status="PASS" signature="WebLoginCarLoad()[pri:0, instance:day1.module2@480bdb19]" name="WebLoginCarLoad" duration-ms="5" started-at="2021-11-04T11:56:02 TRT" finished-at="2021-11-04T11:56:02 TRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebLoginCarLoad -->
+      </class> <!-- day1.module2 -->
+    </test> <!-- TestClass2 -->
+  </suite> <!-- ClassSuite -->
+</testng-results>

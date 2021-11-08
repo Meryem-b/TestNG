@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18612" started-at="2021-11-04T23:44:06 TRT" finished-at="2021-11-04T23:44:24 TRT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18612" started-at="2021-11-04T23:44:06 TRT" finished-at="2021-11-04T23:44:24 TRT">
+      <class name="test.Homework">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:test.Homework@3891771e]" name="setUp" is-config="true" duration-ms="5409" started-at="2021-11-04T23:44:06 TRT" finished-at="2021-11-04T23:44:11 TRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="login()[pri:0, instance:test.Homework@3891771e]" name="login" duration-ms="3277" started-at="2021-11-04T23:44:11 TRT" finished-at="2021-11-04T23:44:15 TRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="testFindSearchBox()[pri:0, instance:test.Homework@3891771e]" name="testFindSearchBox" duration-ms="59" started-at="2021-11-04T23:44:15 TRT" depends-on-methods="test.Homework.login" finished-at="2021-11-04T23:44:15 TRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFindSearchBox -->
+        <test-method status="PASS" signature="testSendKeysToSearchBox()[pri:0, instance:test.Homework@3891771e]" name="testSendKeysToSearchBox" duration-ms="176" started-at="2021-11-04T23:44:15 TRT" depends-on-methods="test.Homework.testFindSearchBox" finished-at="2021-11-04T23:44:15 TRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSendKeysToSearchBox -->
+        <test-method status="PASS" signature="testSubmitButton()[pri:0, instance:test.Homework@3891771e]" name="testSubmitButton" duration-ms="3528" started-at="2021-11-04T23:44:15 TRT" depends-on-methods="test.Homework.testSendKeysToSearchBox" finished-at="2021-11-04T23:44:18 TRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSubmitButton -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:test.Homework@3891771e]" name="cleanUp" is-config="true" duration-ms="6045" started-at="2021-11-04T23:44:18 TRT" finished-at="2021-11-04T23:44:24 TRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+      </class> <!-- test.Homework -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

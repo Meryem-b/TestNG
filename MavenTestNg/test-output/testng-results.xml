@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13550" started-at="2021-11-04T15:01:54 TRT" finished-at="2021-11-04T15:02:07 TRT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13550" started-at="2021-11-04T15:01:54 TRT" finished-at="2021-11-04T15:02:07 TRT">
+      <class name="Selenium.Tests">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:Selenium.Tests@3891771e]" name="beforeClass" is-config="true" duration-ms="4110" started-at="2021-11-04T15:01:54 TRT" finished-at="2021-11-04T15:01:58 TRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="testConnection()[pri:0, instance:Selenium.Tests@3891771e]" name="testConnection" duration-ms="1487" started-at="2021-11-04T15:01:58 TRT" finished-at="2021-11-04T15:01:59 TRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testConnection -->
+        <test-method status="PASS" signature="testFindSearchBox()[pri:0, instance:Selenium.Tests@3891771e]" name="testFindSearchBox" duration-ms="23" started-at="2021-11-04T15:01:59 TRT" depends-on-methods="Selenium.Tests.testConnection" finished-at="2021-11-04T15:01:59 TRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFindSearchBox -->
+        <test-method status="PASS" signature="testSendKeysToSearchBox()[pri:0, instance:Selenium.Tests@3891771e]" name="testSendKeysToSearchBox" duration-ms="126" started-at="2021-11-04T15:01:59 TRT" depends-on-methods="Selenium.Tests.testFindSearchBox" finished-at="2021-11-04T15:02:00 TRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSendKeysToSearchBox -->
+        <test-method status="PASS" signature="testSubmitButton()[pri:0, instance:Selenium.Tests@3891771e]" name="testSubmitButton" duration-ms="1861" started-at="2021-11-04T15:02:00 TRT" depends-on-methods="Selenium.Tests.testSendKeysToSearchBox" finished-at="2021-11-04T15:02:01 TRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSubmitButton -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:Selenium.Tests@3891771e]" name="afterClass" is-config="true" duration-ms="5874" started-at="2021-11-04T15:02:01 TRT" finished-at="2021-11-04T15:02:07 TRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- Selenium.Tests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
