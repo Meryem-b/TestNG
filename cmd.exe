@@ -1,0 +1,1151 @@
+Microsoft Windows [Version 10.0.19042.1288]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\z004du6d>
+C:\Users\z004du6d>cd \Users\z004du6d\Desktop\github\TestNG
+
+C:\Users\z004du6d\Desktop\github\TestNG>git init
+Initialized empty Git repository in C:/Users/z004du6d/Desktop/github/TestNG/.git/
+
+C:\Users\z004du6d\Desktop\github\TestNG>git add .
+warning: LF will be replaced by CRLF in CucumberKitapYurdu/src/test/resources/features/kitapyurdu/search.feature.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in CucumberKitapYurdu/target/test-classes/features/kitapyurdu/search.feature.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in CucumberKitapYurdu/test-output/Default suite/Default test.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in CucumberKitapYurdu/test-output/Default suite/Default test.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in CucumberKitapYurdu/test-output/emailable-report.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in CucumberKitapYurdu/test-output/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in CucumberKitapYurdu/test-output/jquery.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in CucumberKitapYurdu/test-output/junitreports/TEST-TestRunner.TestRunner.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in CucumberKitapYurdu/test-output/junitreports/TEST-google.GoogleTestRunner.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in CucumberKitapYurdu/test-output/junitreports/TEST-kitapyurdu.TestRunner.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in CucumberKitapYurdu/test-output/junitreports/TEST-pages.TestRunner.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in CucumberKitapYurdu/test-output/old/Default suite/classes.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in CucumberKitapYurdu/test-output/old/Default suite/groups.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in CucumberKitapYurdu/test-output/old/Default suite/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in CucumberKitapYurdu/test-output/old/Default suite/main.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in CucumberKitapYurdu/test-output/old/Default suite/methods-alphabetical.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in CucumberKitapYurdu/test-output/old/Default suite/methods-not-run.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in CucumberKitapYurdu/test-output/old/Default suite/methods.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in CucumberKitapYurdu/test-output/old/Default suite/toc.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in CucumberKitapYurdu/test-output/old/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in CucumberKitapYurdu/test-output/testng-reports.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in CucumberKitapYurdu/test-output/testng-reports.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in CucumberKitapYurdu/test-output/testng-reports1.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in CucumberKitapYurdu/test-output/testng-reports2.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in CucumberKitapYurdu/test-output/testng-results.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in MavenCucumberTestngSiemens/test-output/Default suite/Default test.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in MavenCucumberTestngSiemens/test-output/Default suite/Default test.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in MavenCucumberTestngSiemens/test-output/emailable-report.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in MavenCucumberTestngSiemens/test-output/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in MavenCucumberTestngSiemens/test-output/jquery.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in MavenCucumberTestngSiemens/test-output/junitreports/TEST-google.GoogleTestRunner.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in MavenCucumberTestngSiemens/test-output/old/Default suite/classes.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in MavenCucumberTestngSiemens/test-output/old/Default suite/groups.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in MavenCucumberTestngSiemens/test-output/old/Default suite/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in MavenCucumberTestngSiemens/test-output/old/Default suite/main.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in MavenCucumberTestngSiemens/test-output/old/Default suite/methods-alphabetical.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in MavenCucumberTestngSiemens/test-output/old/Default suite/methods-not-run.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in MavenCucumberTestngSiemens/test-output/old/Default suite/methods.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in MavenCucumberTestngSiemens/test-output/old/Default suite/toc.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in MavenCucumberTestngSiemens/test-output/old/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in MavenCucumberTestngSiemens/test-output/testng-reports.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in MavenCucumberTestngSiemens/test-output/testng-reports.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in MavenCucumberTestngSiemens/test-output/testng-reports1.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in MavenCucumberTestngSiemens/test-output/testng-reports2.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in MavenCucumberTestngSiemens/test-output/testng-results.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in MavenTestNg/src/test/java/Selenium/Tests.java.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in MavenTestNg/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in MavenTestNg/test-output/Default suite/Default test.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in MavenTestNg/test-output/Default suite/Default test.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in MavenTestNg/test-output/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in MavenTestNg/test-output/jquery.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in MavenTestNg/test-output/junitreports/TEST-Selenium.HelloWorld.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in MavenTestNg/test-output/junitreports/TEST-Selenium.Tests.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in MavenTestNg/test-output/old/Default suite/classes.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in MavenTestNg/test-output/old/Default suite/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in MavenTestNg/test-output/old/Default suite/main.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in MavenTestNg/test-output/old/Default suite/methods-alphabetical.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in MavenTestNg/test-output/old/Default suite/methods-not-run.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in MavenTestNg/test-output/old/Default suite/methods.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in MavenTestNg/test-output/old/Default suite/toc.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in MavenTestNg/test-output/old/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in MavenTestNg/test-output/testng-reports.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in MavenTestNg/test-output/testng-reports.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in MavenTestNg/test-output/testng-reports1.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in MavenTestNg/test-output/testng-reports2.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in MavenTestNgSiemens/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in MavenTestNgSiemens/test-output/Default suite/Default test.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in MavenTestNgSiemens/test-output/Default suite/Default test.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in MavenTestNgSiemens/test-output/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in MavenTestNgSiemens/test-output/jquery.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in MavenTestNgSiemens/test-output/junitreports/TEST-Selenium.HelloWorld.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in MavenTestNgSiemens/test-output/junitreports/TEST-Selenium.Tests.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in MavenTestNgSiemens/test-output/junitreports/TEST-test.Homework.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in MavenTestNgSiemens/test-output/old/Default suite/classes.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in MavenTestNgSiemens/test-output/old/Default suite/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in MavenTestNgSiemens/test-output/old/Default suite/main.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in MavenTestNgSiemens/test-output/old/Default suite/methods-alphabetical.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in MavenTestNgSiemens/test-output/old/Default suite/methods-not-run.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in MavenTestNgSiemens/test-output/old/Default suite/methods.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in MavenTestNgSiemens/test-output/old/Default suite/toc.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in MavenTestNgSiemens/test-output/old/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in MavenTestNgSiemens/test-output/testng-reports.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in MavenTestNgSiemens/test-output/testng-reports.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in MavenTestNgSiemens/test-output/testng-reports1.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in MavenTestNgSiemens/test-output/testng-reports2.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngSiemens/src/Test/NewTest1.java.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngSiemens/src/Test2/NewTest2.java.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngSiemens/test-output/Default suite/Default test.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngSiemens/test-output/Default suite/Default test.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngSiemens/test-output/HelloSuite/HelloTest.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngSiemens/test-output/HelloSuite/HelloTest.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngSiemens/test-output/Suite/Test.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngSiemens/test-output/Suite/Test.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngSiemens/test-output/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngSiemens/test-output/jquery.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngSiemens/test-output/junitreports/TEST-Test.NewTest1.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngSiemens/test-output/junitreports/TEST-Test2.NewTest2.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngSiemens/test-output/old/Default suite/classes.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngSiemens/test-output/old/Default suite/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngSiemens/test-output/old/Default suite/main.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngSiemens/test-output/old/Default suite/methods-alphabetical.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngSiemens/test-output/old/Default suite/methods-not-run.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngSiemens/test-output/old/Default suite/methods.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngSiemens/test-output/old/Default suite/toc.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngSiemens/test-output/old/HelloSuite/classes.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngSiemens/test-output/old/HelloSuite/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngSiemens/test-output/old/HelloSuite/main.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngSiemens/test-output/old/HelloSuite/methods-alphabetical.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngSiemens/test-output/old/HelloSuite/methods-not-run.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngSiemens/test-output/old/HelloSuite/methods.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngSiemens/test-output/old/HelloSuite/toc.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngSiemens/test-output/old/Suite/classes.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngSiemens/test-output/old/Suite/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngSiemens/test-output/old/Suite/main.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngSiemens/test-output/old/Suite/methods-alphabetical.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngSiemens/test-output/old/Suite/methods-not-run.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngSiemens/test-output/old/Suite/methods.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngSiemens/test-output/old/Suite/toc.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngSiemens/test-output/old/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngSiemens/test-output/testng-reports.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngSiemens/test-output/testng-reports.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngSiemens/test-output/testng-reports1.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngSiemens/test-output/testng-reports2.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngUygulamam/src/day1/module1.java.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngUygulamam/src/day1/module2.java.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngUygulamam/test-output/ClassSuite/TestClass.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngUygulamam/test-output/ClassSuite/TestClass.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngUygulamam/test-output/ClassSuite/TestClass2.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngUygulamam/test-output/ClassSuite/TestClass2.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngUygulamam/test-output/Default suite/Default test.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngUygulamam/test-output/Default suite/Default test.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngUygulamam/test-output/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngUygulamam/test-output/jquery.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngUygulamam/test-output/junitreports/TEST-day1.module1.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngUygulamam/test-output/junitreports/TEST-day1.module2.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngUygulamam/test-output/old/ClassSuite/classes.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngUygulamam/test-output/old/ClassSuite/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngUygulamam/test-output/old/ClassSuite/main.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngUygulamam/test-output/old/ClassSuite/methods-alphabetical.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngUygulamam/test-output/old/ClassSuite/methods-not-run.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngUygulamam/test-output/old/ClassSuite/methods.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngUygulamam/test-output/old/ClassSuite/toc.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngUygulamam/test-output/old/Default suite/classes.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngUygulamam/test-output/old/Default suite/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngUygulamam/test-output/old/Default suite/main.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngUygulamam/test-output/old/Default suite/methods-alphabetical.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngUygulamam/test-output/old/Default suite/methods-not-run.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngUygulamam/test-output/old/Default suite/methods.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngUygulamam/test-output/old/Default suite/toc.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngUygulamam/test-output/old/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngUygulamam/test-output/testng-reports.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngUygulamam/test-output/testng-reports.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngUygulamam/test-output/testng-reports1.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestngUygulamam/test-output/testng-reports2.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in cucumberTestng/test-output/Default suite/Default test.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in cucumberTestng/test-output/Default suite/Default test.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in cucumberTestng/test-output/emailable-report.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in cucumberTestng/test-output/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in cucumberTestng/test-output/jquery.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in cucumberTestng/test-output/junitreports/TEST-Google.GoogleTestRunner.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in cucumberTestng/test-output/old/Default suite/classes.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in cucumberTestng/test-output/old/Default suite/groups.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in cucumberTestng/test-output/old/Default suite/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in cucumberTestng/test-output/old/Default suite/main.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in cucumberTestng/test-output/old/Default suite/methods-alphabetical.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in cucumberTestng/test-output/old/Default suite/methods-not-run.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in cucumberTestng/test-output/old/Default suite/methods.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in cucumberTestng/test-output/old/Default suite/toc.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in cucumberTestng/test-output/old/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in cucumberTestng/test-output/testng-reports.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in cucumberTestng/test-output/testng-reports.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in cucumberTestng/test-output/testng-reports1.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in cucumberTestng/test-output/testng-reports2.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in cucumberTestng/test-output/testng-results.xml.
+The file will have its original line endings in your working directory
+
+C:\Users\z004du6d\Desktop\github\TestNG>git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   CucumberKitapYurdu/.classpath
+        new file:   CucumberKitapYurdu/.project
+        new file:   CucumberKitapYurdu/.settings/org.eclipse.core.resources.prefs
+        new file:   CucumberKitapYurdu/.settings/org.eclipse.jdt.core.prefs
+        new file:   CucumberKitapYurdu/.settings/org.eclipse.m2e.core.prefs
+        new file:   CucumberKitapYurdu/pom.xml
+        new file:   CucumberKitapYurdu/src/test/java/pages/CantFindProduct.java
+        new file:   CucumberKitapYurdu/src/test/java/pages/JustSearch.java
+        new file:   CucumberKitapYurdu/src/test/java/pages/Login.java
+        new file:   CucumberKitapYurdu/src/test/java/pages/Search.java
+        new file:   CucumberKitapYurdu/src/test/java/pages/TestRunner.java
+        new file:   CucumberKitapYurdu/src/test/resources/features/kitapyurdu/CantFindProduct.feature
+        new file:   CucumberKitapYurdu/src/test/resources/features/kitapyurdu/JustSearch.feature
+        new file:   CucumberKitapYurdu/src/test/resources/features/kitapyurdu/login.feature
+        new file:   CucumberKitapYurdu/src/test/resources/features/kitapyurdu/search.feature
+        new file:   CucumberKitapYurdu/target/classes/META-INF/MANIFEST.MF
+        new file:   CucumberKitapYurdu/target/classes/META-INF/maven/CucumberMine/CucumberMine/pom.properties
+        new file:   CucumberKitapYurdu/target/classes/META-INF/maven/CucumberMine/CucumberMine/pom.xml
+        new file:   CucumberKitapYurdu/target/test-classes/features/kitapyurdu/CantFindProduct.feature
+        new file:   CucumberKitapYurdu/target/test-classes/features/kitapyurdu/JustSearch.feature
+        new file:   CucumberKitapYurdu/target/test-classes/features/kitapyurdu/login.feature
+        new file:   CucumberKitapYurdu/target/test-classes/features/kitapyurdu/search.feature
+        new file:   CucumberKitapYurdu/target/test-classes/pages/CantFindProduct.class
+        new file:   CucumberKitapYurdu/target/test-classes/pages/JustSearch.class
+        new file:   CucumberKitapYurdu/target/test-classes/pages/Login.class
+        new file:   CucumberKitapYurdu/target/test-classes/pages/Search.class
+        new file:   CucumberKitapYurdu/target/test-classes/pages/TestRunner.class
+        new file:   CucumberKitapYurdu/test-output/Default suite/Default test.html
+        new file:   CucumberKitapYurdu/test-output/Default suite/Default test.xml
+        new file:   CucumberKitapYurdu/test-output/Default suite/testng-failed.xml
+        new file:   CucumberKitapYurdu/test-output/bullet_point.png
+        new file:   CucumberKitapYurdu/test-output/collapseall.gif
+        new file:   CucumberKitapYurdu/test-output/emailable-report.html
+        new file:   CucumberKitapYurdu/test-output/failed.png
+        new file:   CucumberKitapYurdu/test-output/index.html
+        new file:   CucumberKitapYurdu/test-output/jquery.min.js
+        new file:   CucumberKitapYurdu/test-output/junitreports/TEST-TestRunner.TestRunner.xml
+        new file:   CucumberKitapYurdu/test-output/junitreports/TEST-google.GoogleTestRunner.xml
+        new file:   CucumberKitapYurdu/test-output/junitreports/TEST-kitapyurdu.TestRunner.xml
+        new file:   CucumberKitapYurdu/test-output/junitreports/TEST-pages.TestRunner.xml
+        new file:   CucumberKitapYurdu/test-output/navigator-bullet.png
+        new file:   CucumberKitapYurdu/test-output/old/Default suite/Default test.properties
+        new file:   CucumberKitapYurdu/test-output/old/Default suite/classes.html
+        new file:   CucumberKitapYurdu/test-output/old/Default suite/groups.html
+        new file:   CucumberKitapYurdu/test-output/old/Default suite/index.html
+        new file:   CucumberKitapYurdu/test-output/old/Default suite/main.html
+        new file:   CucumberKitapYurdu/test-output/old/Default suite/methods-alphabetical.html
+        new file:   CucumberKitapYurdu/test-output/old/Default suite/methods-not-run.html
+        new file:   CucumberKitapYurdu/test-output/old/Default suite/methods.html
+        new file:   CucumberKitapYurdu/test-output/old/Default suite/reporter-output.html
+        new file:   CucumberKitapYurdu/test-output/old/Default suite/testng.xml.html
+        new file:   CucumberKitapYurdu/test-output/old/Default suite/toc.html
+        new file:   CucumberKitapYurdu/test-output/old/index.html
+        new file:   CucumberKitapYurdu/test-output/passed.png
+        new file:   CucumberKitapYurdu/test-output/skipped.png
+        new file:   CucumberKitapYurdu/test-output/testng-failed.xml
+        new file:   CucumberKitapYurdu/test-output/testng-reports.css
+        new file:   CucumberKitapYurdu/test-output/testng-reports.js
+        new file:   CucumberKitapYurdu/test-output/testng-reports1.css
+        new file:   CucumberKitapYurdu/test-output/testng-reports2.js
+        new file:   CucumberKitapYurdu/test-output/testng-results.xml
+        new file:   CucumberKitapYurdu/test-output/testng.css
+        new file:   MavenCucumberTestngSiemens/.classpath
+        new file:   MavenCucumberTestngSiemens/.project
+        new file:   MavenCucumberTestngSiemens/.settings/org.eclipse.jdt.core.prefs
+        new file:   MavenCucumberTestngSiemens/.settings/org.eclipse.m2e.core.prefs
+        new file:   MavenCucumberTestngSiemens/pom.xml
+        new file:   MavenCucumberTestngSiemens/src/test/java/google/GoogleTestRunner.java
+        new file:   MavenCucumberTestngSiemens/src/test/java/google/StepDefinition.java
+        new file:   MavenCucumberTestngSiemens/src/test/resources/features/google/google.feature
+        new file:   MavenCucumberTestngSiemens/target/classes/META-INF/MANIFEST.MF
+        new file:   MavenCucumberTestngSiemens/target/classes/META-INF/maven/cucumberTestng/cucumberTestng/pom.properties
+        new file:   MavenCucumberTestngSiemens/target/classes/META-INF/maven/cucumberTestng/cucumberTestng/pom.xml
+        new file:   MavenCucumberTestngSiemens/target/test-classes/features/google/google.feature
+        new file:   MavenCucumberTestngSiemens/target/test-classes/google/GoogleTestRunner.class
+        new file:   MavenCucumberTestngSiemens/target/test-classes/google/StepDefinition.class
+        new file:   MavenCucumberTestngSiemens/test-output/Default suite/Default test.html
+        new file:   MavenCucumberTestngSiemens/test-output/Default suite/Default test.xml
+        new file:   MavenCucumberTestngSiemens/test-output/Default suite/testng-failed.xml
+        new file:   MavenCucumberTestngSiemens/test-output/bullet_point.png
+        new file:   MavenCucumberTestngSiemens/test-output/collapseall.gif
+        new file:   MavenCucumberTestngSiemens/test-output/emailable-report.html
+        new file:   MavenCucumberTestngSiemens/test-output/failed.png
+        new file:   MavenCucumberTestngSiemens/test-output/index.html
+        new file:   MavenCucumberTestngSiemens/test-output/jquery.min.js
+        new file:   MavenCucumberTestngSiemens/test-output/junitreports/TEST-google.GoogleTestRunner.xml
+        new file:   MavenCucumberTestngSiemens/test-output/navigator-bullet.png
+        new file:   MavenCucumberTestngSiemens/test-output/old/Default suite/Default test.properties
+        new file:   MavenCucumberTestngSiemens/test-output/old/Default suite/classes.html
+        new file:   MavenCucumberTestngSiemens/test-output/old/Default suite/groups.html
+        new file:   MavenCucumberTestngSiemens/test-output/old/Default suite/index.html
+        new file:   MavenCucumberTestngSiemens/test-output/old/Default suite/main.html
+        new file:   MavenCucumberTestngSiemens/test-output/old/Default suite/methods-alphabetical.html
+        new file:   MavenCucumberTestngSiemens/test-output/old/Default suite/methods-not-run.html
+        new file:   MavenCucumberTestngSiemens/test-output/old/Default suite/methods.html
+        new file:   MavenCucumberTestngSiemens/test-output/old/Default suite/reporter-output.html
+        new file:   MavenCucumberTestngSiemens/test-output/old/Default suite/testng.xml.html
+        new file:   MavenCucumberTestngSiemens/test-output/old/Default suite/toc.html
+        new file:   MavenCucumberTestngSiemens/test-output/old/index.html
+        new file:   MavenCucumberTestngSiemens/test-output/passed.png
+        new file:   MavenCucumberTestngSiemens/test-output/skipped.png
+        new file:   MavenCucumberTestngSiemens/test-output/testng-failed.xml
+        new file:   MavenCucumberTestngSiemens/test-output/testng-reports.css
+        new file:   MavenCucumberTestngSiemens/test-output/testng-reports.js
+        new file:   MavenCucumberTestngSiemens/test-output/testng-reports1.css
+        new file:   MavenCucumberTestngSiemens/test-output/testng-reports2.js
+        new file:   MavenCucumberTestngSiemens/test-output/testng-results.xml
+        new file:   MavenCucumberTestngSiemens/test-output/testng.css
+        new file:   MavenTestNg/.classpath
+        new file:   MavenTestNg/.project
+        new file:   MavenTestNg/.settings/org.eclipse.core.resources.prefs
+        new file:   MavenTestNg/.settings/org.eclipse.jdt.core.prefs
+        new file:   MavenTestNg/.settings/org.eclipse.m2e.core.prefs
+        new file:   MavenTestNg/pom.xml
+        new file:   MavenTestNg/src/test/java/Selenium/HelloWorld.java
+        new file:   MavenTestNg/src/test/java/Selenium/Tests.java
+        new file:   MavenTestNg/target/classes/META-INF/MANIFEST.MF
+        new file:   MavenTestNg/target/classes/META-INF/maven/SeleniumTestNG/SeleniumTestNG/pom.properties
+        new file:   MavenTestNg/target/classes/META-INF/maven/SeleniumTestNG/SeleniumTestNG/pom.xml
+        new file:   MavenTestNg/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+        new file:   MavenTestNg/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+        new file:   MavenTestNg/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+        new file:   MavenTestNg/target/test-classes/Selenium/HelloWorld.class
+        new file:   MavenTestNg/target/test-classes/Selenium/Tests.class
+        new file:   MavenTestNg/test-output/Default suite/Default test.html
+        new file:   MavenTestNg/test-output/Default suite/Default test.xml
+        new file:   MavenTestNg/test-output/Default suite/testng-failed.xml
+        new file:   MavenTestNg/test-output/bullet_point.png
+        new file:   MavenTestNg/test-output/collapseall.gif
+        new file:   MavenTestNg/test-output/emailable-report.html
+        new file:   MavenTestNg/test-output/failed.png
+        new file:   MavenTestNg/test-output/index.html
+        new file:   MavenTestNg/test-output/jquery.min.js
+        new file:   MavenTestNg/test-output/junitreports/TEST-Selenium.HelloWorld.xml
+        new file:   MavenTestNg/test-output/junitreports/TEST-Selenium.Tests.xml
+        new file:   MavenTestNg/test-output/navigator-bullet.png
+        new file:   MavenTestNg/test-output/old/Default suite/Default test.properties
+        new file:   MavenTestNg/test-output/old/Default suite/classes.html
+        new file:   MavenTestNg/test-output/old/Default suite/groups.html
+        new file:   MavenTestNg/test-output/old/Default suite/index.html
+        new file:   MavenTestNg/test-output/old/Default suite/main.html
+        new file:   MavenTestNg/test-output/old/Default suite/methods-alphabetical.html
+        new file:   MavenTestNg/test-output/old/Default suite/methods-not-run.html
+        new file:   MavenTestNg/test-output/old/Default suite/methods.html
+        new file:   MavenTestNg/test-output/old/Default suite/reporter-output.html
+        new file:   MavenTestNg/test-output/old/Default suite/testng.xml.html
+        new file:   MavenTestNg/test-output/old/Default suite/toc.html
+        new file:   MavenTestNg/test-output/old/index.html
+        new file:   MavenTestNg/test-output/passed.png
+        new file:   MavenTestNg/test-output/skipped.png
+        new file:   MavenTestNg/test-output/testng-failed.xml
+        new file:   MavenTestNg/test-output/testng-reports.css
+        new file:   MavenTestNg/test-output/testng-reports.js
+        new file:   MavenTestNg/test-output/testng-reports1.css
+        new file:   MavenTestNg/test-output/testng-reports2.js
+        new file:   MavenTestNg/test-output/testng-results.xml
+        new file:   MavenTestNg/test-output/testng.css
+        new file:   MavenTestNgSiemens/.classpath
+        new file:   MavenTestNgSiemens/.project
+        new file:   MavenTestNgSiemens/.settings/org.eclipse.core.resources.prefs
+        new file:   MavenTestNgSiemens/.settings/org.eclipse.jdt.core.prefs
+        new file:   MavenTestNgSiemens/.settings/org.eclipse.m2e.core.prefs
+        new file:   MavenTestNgSiemens/pom.xml
+        new file:   MavenTestNgSiemens/src/test/java/test/Homework.java
+        new file:   MavenTestNgSiemens/target/classes/META-INF/MANIFEST.MF
+        new file:   MavenTestNgSiemens/target/classes/META-INF/maven/SeleniumTestNG/SeleniumTestNG/pom.properties
+        new file:   MavenTestNgSiemens/target/classes/META-INF/maven/SeleniumTestNG/SeleniumTestNG/pom.xml
+        new file:   MavenTestNgSiemens/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+        new file:   MavenTestNgSiemens/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+        new file:   MavenTestNgSiemens/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+        new file:   MavenTestNgSiemens/target/test-classes/test/Homework.class
+        new file:   MavenTestNgSiemens/test-output/Default suite/Default test.html
+        new file:   MavenTestNgSiemens/test-output/Default suite/Default test.xml
+        new file:   MavenTestNgSiemens/test-output/Default suite/testng-failed.xml
+        new file:   MavenTestNgSiemens/test-output/bullet_point.png
+        new file:   MavenTestNgSiemens/test-output/collapseall.gif
+        new file:   MavenTestNgSiemens/test-output/emailable-report.html
+        new file:   MavenTestNgSiemens/test-output/failed.png
+        new file:   MavenTestNgSiemens/test-output/index.html
+        new file:   MavenTestNgSiemens/test-output/jquery.min.js
+        new file:   MavenTestNgSiemens/test-output/junitreports/TEST-Selenium.HelloWorld.xml
+        new file:   MavenTestNgSiemens/test-output/junitreports/TEST-Selenium.Tests.xml
+        new file:   MavenTestNgSiemens/test-output/junitreports/TEST-test.Homework.xml
+        new file:   MavenTestNgSiemens/test-output/navigator-bullet.png
+        new file:   MavenTestNgSiemens/test-output/old/Default suite/Default test.properties
+        new file:   MavenTestNgSiemens/test-output/old/Default suite/classes.html
+        new file:   MavenTestNgSiemens/test-output/old/Default suite/groups.html
+        new file:   MavenTestNgSiemens/test-output/old/Default suite/index.html
+        new file:   MavenTestNgSiemens/test-output/old/Default suite/main.html
+        new file:   MavenTestNgSiemens/test-output/old/Default suite/methods-alphabetical.html
+        new file:   MavenTestNgSiemens/test-output/old/Default suite/methods-not-run.html
+        new file:   MavenTestNgSiemens/test-output/old/Default suite/methods.html
+        new file:   MavenTestNgSiemens/test-output/old/Default suite/reporter-output.html
+        new file:   MavenTestNgSiemens/test-output/old/Default suite/testng.xml.html
+        new file:   MavenTestNgSiemens/test-output/old/Default suite/toc.html
+        new file:   MavenTestNgSiemens/test-output/old/index.html
+        new file:   MavenTestNgSiemens/test-output/passed.png
+        new file:   MavenTestNgSiemens/test-output/skipped.png
+        new file:   MavenTestNgSiemens/test-output/testng-failed.xml
+        new file:   MavenTestNgSiemens/test-output/testng-reports.css
+        new file:   MavenTestNgSiemens/test-output/testng-reports.js
+        new file:   MavenTestNgSiemens/test-output/testng-reports1.css
+        new file:   MavenTestNgSiemens/test-output/testng-reports2.js
+        new file:   MavenTestNgSiemens/test-output/testng-results.xml
+        new file:   MavenTestNgSiemens/test-output/testng.css
+        new file:   TestngSiemens/.classpath
+        new file:   TestngSiemens/.project
+        new file:   TestngSiemens/.settings/org.eclipse.core.resources.prefs
+        new file:   TestngSiemens/.settings/org.eclipse.jdt.core.prefs
+        new file:   TestngSiemens/bin/Test/NewTest1.class
+        new file:   TestngSiemens/bin/Test2/NewTest2.class
+        new file:   TestngSiemens/src/Test/NewTest1.java
+        new file:   TestngSiemens/src/Test2/NewTest2.java
+        new file:   TestngSiemens/test-output/Default suite/Default test.html
+        new file:   TestngSiemens/test-output/Default suite/Default test.xml
+        new file:   TestngSiemens/test-output/Default suite/testng-failed.xml
+        new file:   TestngSiemens/test-output/HelloSuite/HelloTest.html
+        new file:   TestngSiemens/test-output/HelloSuite/HelloTest.xml
+        new file:   TestngSiemens/test-output/HelloSuite/testng-failed.xml
+        new file:   TestngSiemens/test-output/Suite/Test.html
+        new file:   TestngSiemens/test-output/Suite/Test.xml
+        new file:   TestngSiemens/test-output/Suite/testng-failed.xml
+        new file:   TestngSiemens/test-output/bullet_point.png
+        new file:   TestngSiemens/test-output/collapseall.gif
+        new file:   TestngSiemens/test-output/emailable-report.html
+        new file:   TestngSiemens/test-output/failed.png
+        new file:   TestngSiemens/test-output/index.html
+        new file:   TestngSiemens/test-output/jquery.min.js
+        new file:   TestngSiemens/test-output/junitreports/TEST-Test.NewTest1.xml
+        new file:   TestngSiemens/test-output/junitreports/TEST-Test2.NewTest2.xml
+        new file:   TestngSiemens/test-output/navigator-bullet.png
+        new file:   TestngSiemens/test-output/old/Default suite/Default test.properties
+        new file:   TestngSiemens/test-output/old/Default suite/classes.html
+        new file:   TestngSiemens/test-output/old/Default suite/groups.html
+        new file:   TestngSiemens/test-output/old/Default suite/index.html
+        new file:   TestngSiemens/test-output/old/Default suite/main.html
+        new file:   TestngSiemens/test-output/old/Default suite/methods-alphabetical.html
+        new file:   TestngSiemens/test-output/old/Default suite/methods-not-run.html
+        new file:   TestngSiemens/test-output/old/Default suite/methods.html
+        new file:   TestngSiemens/test-output/old/Default suite/reporter-output.html
+        new file:   TestngSiemens/test-output/old/Default suite/testng.xml.html
+        new file:   TestngSiemens/test-output/old/Default suite/toc.html
+        new file:   TestngSiemens/test-output/old/HelloSuite/HelloTest.properties
+        new file:   TestngSiemens/test-output/old/HelloSuite/classes.html
+        new file:   TestngSiemens/test-output/old/HelloSuite/groups.html
+        new file:   TestngSiemens/test-output/old/HelloSuite/index.html
+        new file:   TestngSiemens/test-output/old/HelloSuite/main.html
+        new file:   TestngSiemens/test-output/old/HelloSuite/methods-alphabetical.html
+        new file:   TestngSiemens/test-output/old/HelloSuite/methods-not-run.html
+        new file:   TestngSiemens/test-output/old/HelloSuite/methods.html
+        new file:   TestngSiemens/test-output/old/HelloSuite/reporter-output.html
+        new file:   TestngSiemens/test-output/old/HelloSuite/testng.xml.html
+        new file:   TestngSiemens/test-output/old/HelloSuite/toc.html
+        new file:   TestngSiemens/test-output/old/Suite/Test.properties
+        new file:   TestngSiemens/test-output/old/Suite/classes.html
+        new file:   TestngSiemens/test-output/old/Suite/groups.html
+        new file:   TestngSiemens/test-output/old/Suite/index.html
+        new file:   TestngSiemens/test-output/old/Suite/main.html
+        new file:   TestngSiemens/test-output/old/Suite/methods-alphabetical.html
+        new file:   TestngSiemens/test-output/old/Suite/methods-not-run.html
+        new file:   TestngSiemens/test-output/old/Suite/methods.html
+        new file:   TestngSiemens/test-output/old/Suite/reporter-output.html
+        new file:   TestngSiemens/test-output/old/Suite/testng.xml.html
+        new file:   TestngSiemens/test-output/old/Suite/toc.html
+        new file:   TestngSiemens/test-output/old/index.html
+        new file:   TestngSiemens/test-output/passed.png
+        new file:   TestngSiemens/test-output/skipped.png
+        new file:   TestngSiemens/test-output/testng-failed.xml
+        new file:   TestngSiemens/test-output/testng-reports.css
+        new file:   TestngSiemens/test-output/testng-reports.js
+        new file:   TestngSiemens/test-output/testng-reports1.css
+        new file:   TestngSiemens/test-output/testng-reports2.js
+        new file:   TestngSiemens/test-output/testng-results.xml
+        new file:   TestngSiemens/test-output/testng.css
+        new file:   TestngSiemens/testng.xml
+        new file:   TestngUygulamam/.classpath
+        new file:   TestngUygulamam/.project
+        new file:   TestngUygulamam/.settings/org.eclipse.jdt.core.prefs
+        new file:   TestngUygulamam/bin/day1/module1.class
+        new file:   TestngUygulamam/bin/day1/module2.class
+        new file:   TestngUygulamam/src/day1/module1.java
+        new file:   TestngUygulamam/src/day1/module2.java
+        new file:   TestngUygulamam/test-output/ClassSuite/TestClass.html
+        new file:   TestngUygulamam/test-output/ClassSuite/TestClass.xml
+        new file:   TestngUygulamam/test-output/ClassSuite/TestClass2.html
+        new file:   TestngUygulamam/test-output/ClassSuite/TestClass2.xml
+        new file:   TestngUygulamam/test-output/Default suite/Default test.html
+        new file:   TestngUygulamam/test-output/Default suite/Default test.xml
+        new file:   TestngUygulamam/test-output/bullet_point.png
+        new file:   TestngUygulamam/test-output/collapseall.gif
+        new file:   TestngUygulamam/test-output/emailable-report.html
+        new file:   TestngUygulamam/test-output/failed.png
+        new file:   TestngUygulamam/test-output/index.html
+        new file:   TestngUygulamam/test-output/jquery.min.js
+        new file:   TestngUygulamam/test-output/junitreports/TEST-day1.module1.xml
+        new file:   TestngUygulamam/test-output/junitreports/TEST-day1.module2.xml
+        new file:   TestngUygulamam/test-output/navigator-bullet.png
+        new file:   TestngUygulamam/test-output/old/ClassSuite/TestClass.properties
+        new file:   TestngUygulamam/test-output/old/ClassSuite/TestClass2.properties
+        new file:   TestngUygulamam/test-output/old/ClassSuite/classes.html
+        new file:   TestngUygulamam/test-output/old/ClassSuite/groups.html
+        new file:   TestngUygulamam/test-output/old/ClassSuite/index.html
+        new file:   TestngUygulamam/test-output/old/ClassSuite/main.html
+        new file:   TestngUygulamam/test-output/old/ClassSuite/methods-alphabetical.html
+        new file:   TestngUygulamam/test-output/old/ClassSuite/methods-not-run.html
+        new file:   TestngUygulamam/test-output/old/ClassSuite/methods.html
+        new file:   TestngUygulamam/test-output/old/ClassSuite/reporter-output.html
+        new file:   TestngUygulamam/test-output/old/ClassSuite/testng.xml.html
+        new file:   TestngUygulamam/test-output/old/ClassSuite/toc.html
+        new file:   TestngUygulamam/test-output/old/Default suite/Default test.properties
+        new file:   TestngUygulamam/test-output/old/Default suite/classes.html
+        new file:   TestngUygulamam/test-output/old/Default suite/groups.html
+        new file:   TestngUygulamam/test-output/old/Default suite/index.html
+        new file:   TestngUygulamam/test-output/old/Default suite/main.html
+        new file:   TestngUygulamam/test-output/old/Default suite/methods-alphabetical.html
+        new file:   TestngUygulamam/test-output/old/Default suite/methods-not-run.html
+        new file:   TestngUygulamam/test-output/old/Default suite/methods.html
+        new file:   TestngUygulamam/test-output/old/Default suite/reporter-output.html
+        new file:   TestngUygulamam/test-output/old/Default suite/testng.xml.html
+        new file:   TestngUygulamam/test-output/old/Default suite/toc.html
+        new file:   TestngUygulamam/test-output/old/index.html
+        new file:   TestngUygulamam/test-output/passed.png
+        new file:   TestngUygulamam/test-output/skipped.png
+        new file:   TestngUygulamam/test-output/testng-reports.css
+        new file:   TestngUygulamam/test-output/testng-reports.js
+        new file:   TestngUygulamam/test-output/testng-reports1.css
+        new file:   TestngUygulamam/test-output/testng-reports2.js
+        new file:   TestngUygulamam/test-output/testng-results.xml
+        new file:   TestngUygulamam/test-output/testng.css
+        new file:   TestngUygulamam/testng.xml
+        new file:   cucumberTestng/.classpath
+        new file:   cucumberTestng/.project
+        new file:   cucumberTestng/.settings/org.eclipse.jdt.core.prefs
+        new file:   cucumberTestng/.settings/org.eclipse.m2e.core.prefs
+        new file:   cucumberTestng/pom.xml
+        new file:   cucumberTestng/src/test/java/Google/GoogleTestRunner.java
+        new file:   cucumberTestng/src/test/java/Google/StepDefinition.java
+        new file:   cucumberTestng/src/test/resources/features/google/google.feature
+        new file:   cucumberTestng/target/classes/META-INF/MANIFEST.MF
+        new file:   cucumberTestng/target/classes/META-INF/maven/cucumberTestng/cucumberTestng/pom.properties
+        new file:   cucumberTestng/target/classes/META-INF/maven/cucumberTestng/cucumberTestng/pom.xml
+        new file:   cucumberTestng/target/test-classes/Google/GoogleTestRunner.class
+        new file:   cucumberTestng/target/test-classes/Google/StepDefinition.class
+        new file:   cucumberTestng/target/test-classes/features/Google/google.feature
+        new file:   cucumberTestng/test-output/Default suite/Default test.html
+        new file:   cucumberTestng/test-output/Default suite/Default test.xml
+        new file:   cucumberTestng/test-output/Default suite/testng-failed.xml
+        new file:   cucumberTestng/test-output/bullet_point.png
+        new file:   cucumberTestng/test-output/collapseall.gif
+        new file:   cucumberTestng/test-output/emailable-report.html
+        new file:   cucumberTestng/test-output/failed.png
+        new file:   cucumberTestng/test-output/index.html
+        new file:   cucumberTestng/test-output/jquery.min.js
+        new file:   cucumberTestng/test-output/junitreports/TEST-Google.GoogleTestRunner.xml
+        new file:   cucumberTestng/test-output/navigator-bullet.png
+        new file:   cucumberTestng/test-output/old/Default suite/Default test.properties
+        new file:   cucumberTestng/test-output/old/Default suite/classes.html
+        new file:   cucumberTestng/test-output/old/Default suite/groups.html
+        new file:   cucumberTestng/test-output/old/Default suite/index.html
+        new file:   cucumberTestng/test-output/old/Default suite/main.html
+        new file:   cucumberTestng/test-output/old/Default suite/methods-alphabetical.html
+        new file:   cucumberTestng/test-output/old/Default suite/methods-not-run.html
+        new file:   cucumberTestng/test-output/old/Default suite/methods.html
+        new file:   cucumberTestng/test-output/old/Default suite/reporter-output.html
+        new file:   cucumberTestng/test-output/old/Default suite/testng.xml.html
+        new file:   cucumberTestng/test-output/old/Default suite/toc.html
+        new file:   cucumberTestng/test-output/old/index.html
+        new file:   cucumberTestng/test-output/passed.png
+        new file:   cucumberTestng/test-output/skipped.png
+        new file:   cucumberTestng/test-output/testng-failed.xml
+        new file:   cucumberTestng/test-output/testng-reports.css
+        new file:   cucumberTestng/test-output/testng-reports.js
+        new file:   cucumberTestng/test-output/testng-reports1.css
+        new file:   cucumberTestng/test-output/testng-reports2.js
+        new file:   cucumberTestng/test-output/testng-results.xml
+        new file:   cucumberTestng/test-output/testng.css
+
+
+C:\Users\z004du6d\Desktop\github\TestNG>git commit -m "First commit"
+[master (root-commit) 3b329e4] First commit
+ Committer: Bolat <meryem.bolat@siemens.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 376 files changed, 15036 insertions(+)
+ create mode 100644 CucumberKitapYurdu/.classpath
+ create mode 100644 CucumberKitapYurdu/.project
+ create mode 100644 CucumberKitapYurdu/.settings/org.eclipse.core.resources.prefs
+ create mode 100644 CucumberKitapYurdu/.settings/org.eclipse.jdt.core.prefs
+ create mode 100644 CucumberKitapYurdu/.settings/org.eclipse.m2e.core.prefs
+ create mode 100644 CucumberKitapYurdu/pom.xml
+ create mode 100644 CucumberKitapYurdu/src/test/java/pages/CantFindProduct.java
+ create mode 100644 CucumberKitapYurdu/src/test/java/pages/JustSearch.java
+ create mode 100644 CucumberKitapYurdu/src/test/java/pages/Login.java
+ create mode 100644 CucumberKitapYurdu/src/test/java/pages/Search.java
+ create mode 100644 CucumberKitapYurdu/src/test/java/pages/TestRunner.java
+ create mode 100644 CucumberKitapYurdu/src/test/resources/features/kitapyurdu/CantFindProduct.feature
+ create mode 100644 CucumberKitapYurdu/src/test/resources/features/kitapyurdu/JustSearch.feature
+ create mode 100644 CucumberKitapYurdu/src/test/resources/features/kitapyurdu/login.feature
+ create mode 100644 CucumberKitapYurdu/src/test/resources/features/kitapyurdu/search.feature
+ create mode 100644 CucumberKitapYurdu/target/classes/META-INF/MANIFEST.MF
+ create mode 100644 CucumberKitapYurdu/target/classes/META-INF/maven/CucumberMine/CucumberMine/pom.properties
+ create mode 100644 CucumberKitapYurdu/target/classes/META-INF/maven/CucumberMine/CucumberMine/pom.xml
+ create mode 100644 CucumberKitapYurdu/target/test-classes/features/kitapyurdu/CantFindProduct.feature
+ create mode 100644 CucumberKitapYurdu/target/test-classes/features/kitapyurdu/JustSearch.feature
+ create mode 100644 CucumberKitapYurdu/target/test-classes/features/kitapyurdu/login.feature
+ create mode 100644 CucumberKitapYurdu/target/test-classes/features/kitapyurdu/search.feature
+ create mode 100644 CucumberKitapYurdu/target/test-classes/pages/CantFindProduct.class
+ create mode 100644 CucumberKitapYurdu/target/test-classes/pages/JustSearch.class
+ create mode 100644 CucumberKitapYurdu/target/test-classes/pages/Login.class
+ create mode 100644 CucumberKitapYurdu/target/test-classes/pages/Search.class
+ create mode 100644 CucumberKitapYurdu/target/test-classes/pages/TestRunner.class
+ create mode 100644 CucumberKitapYurdu/test-output/Default suite/Default test.html
+ create mode 100644 CucumberKitapYurdu/test-output/Default suite/Default test.xml
+ create mode 100644 CucumberKitapYurdu/test-output/Default suite/testng-failed.xml
+ create mode 100644 CucumberKitapYurdu/test-output/bullet_point.png
+ create mode 100644 CucumberKitapYurdu/test-output/collapseall.gif
+ create mode 100644 CucumberKitapYurdu/test-output/emailable-report.html
+ create mode 100644 CucumberKitapYurdu/test-output/failed.png
+ create mode 100644 CucumberKitapYurdu/test-output/index.html
+ create mode 100644 CucumberKitapYurdu/test-output/jquery.min.js
+ create mode 100644 CucumberKitapYurdu/test-output/junitreports/TEST-TestRunner.TestRunner.xml
+ create mode 100644 CucumberKitapYurdu/test-output/junitreports/TEST-google.GoogleTestRunner.xml
+ create mode 100644 CucumberKitapYurdu/test-output/junitreports/TEST-kitapyurdu.TestRunner.xml
+ create mode 100644 CucumberKitapYurdu/test-output/junitreports/TEST-pages.TestRunner.xml
+ create mode 100644 CucumberKitapYurdu/test-output/navigator-bullet.png
+ create mode 100644 CucumberKitapYurdu/test-output/old/Default suite/Default test.properties
+ create mode 100644 CucumberKitapYurdu/test-output/old/Default suite/classes.html
+ create mode 100644 CucumberKitapYurdu/test-output/old/Default suite/groups.html
+ create mode 100644 CucumberKitapYurdu/test-output/old/Default suite/index.html
+ create mode 100644 CucumberKitapYurdu/test-output/old/Default suite/main.html
+ create mode 100644 CucumberKitapYurdu/test-output/old/Default suite/methods-alphabetical.html
+ create mode 100644 CucumberKitapYurdu/test-output/old/Default suite/methods-not-run.html
+ create mode 100644 CucumberKitapYurdu/test-output/old/Default suite/methods.html
+ create mode 100644 CucumberKitapYurdu/test-output/old/Default suite/reporter-output.html
+ create mode 100644 CucumberKitapYurdu/test-output/old/Default suite/testng.xml.html
+ create mode 100644 CucumberKitapYurdu/test-output/old/Default suite/toc.html
+ create mode 100644 CucumberKitapYurdu/test-output/old/index.html
+ create mode 100644 CucumberKitapYurdu/test-output/passed.png
+ create mode 100644 CucumberKitapYurdu/test-output/skipped.png
+ create mode 100644 CucumberKitapYurdu/test-output/testng-failed.xml
+ create mode 100644 CucumberKitapYurdu/test-output/testng-reports.css
+ create mode 100644 CucumberKitapYurdu/test-output/testng-reports.js
+ create mode 100644 CucumberKitapYurdu/test-output/testng-reports1.css
+ create mode 100644 CucumberKitapYurdu/test-output/testng-reports2.js
+ create mode 100644 CucumberKitapYurdu/test-output/testng-results.xml
+ create mode 100644 CucumberKitapYurdu/test-output/testng.css
+ create mode 100644 MavenCucumberTestngSiemens/.classpath
+ create mode 100644 MavenCucumberTestngSiemens/.project
+ create mode 100644 MavenCucumberTestngSiemens/.settings/org.eclipse.jdt.core.prefs
+ create mode 100644 MavenCucumberTestngSiemens/.settings/org.eclipse.m2e.core.prefs
+ create mode 100644 MavenCucumberTestngSiemens/pom.xml
+ create mode 100644 MavenCucumberTestngSiemens/src/test/java/google/GoogleTestRunner.java
+ create mode 100644 MavenCucumberTestngSiemens/src/test/java/google/StepDefinition.java
+ create mode 100644 MavenCucumberTestngSiemens/src/test/resources/features/google/google.feature
+ create mode 100644 MavenCucumberTestngSiemens/target/classes/META-INF/MANIFEST.MF
+ create mode 100644 MavenCucumberTestngSiemens/target/classes/META-INF/maven/cucumberTestng/cucumberTestng/pom.properties
+ create mode 100644 MavenCucumberTestngSiemens/target/classes/META-INF/maven/cucumberTestng/cucumberTestng/pom.xml
+ create mode 100644 MavenCucumberTestngSiemens/target/test-classes/features/google/google.feature
+ create mode 100644 MavenCucumberTestngSiemens/target/test-classes/google/GoogleTestRunner.class
+ create mode 100644 MavenCucumberTestngSiemens/target/test-classes/google/StepDefinition.class
+ create mode 100644 MavenCucumberTestngSiemens/test-output/Default suite/Default test.html
+ create mode 100644 MavenCucumberTestngSiemens/test-output/Default suite/Default test.xml
+ create mode 100644 MavenCucumberTestngSiemens/test-output/Default suite/testng-failed.xml
+ create mode 100644 MavenCucumberTestngSiemens/test-output/bullet_point.png
+ create mode 100644 MavenCucumberTestngSiemens/test-output/collapseall.gif
+ create mode 100644 MavenCucumberTestngSiemens/test-output/emailable-report.html
+ create mode 100644 MavenCucumberTestngSiemens/test-output/failed.png
+ create mode 100644 MavenCucumberTestngSiemens/test-output/index.html
+ create mode 100644 MavenCucumberTestngSiemens/test-output/jquery.min.js
+ create mode 100644 MavenCucumberTestngSiemens/test-output/junitreports/TEST-google.GoogleTestRunner.xml
+ create mode 100644 MavenCucumberTestngSiemens/test-output/navigator-bullet.png
+ create mode 100644 MavenCucumberTestngSiemens/test-output/old/Default suite/Default test.properties
+ create mode 100644 MavenCucumberTestngSiemens/test-output/old/Default suite/classes.html
+ create mode 100644 MavenCucumberTestngSiemens/test-output/old/Default suite/groups.html
+ create mode 100644 MavenCucumberTestngSiemens/test-output/old/Default suite/index.html
+ create mode 100644 MavenCucumberTestngSiemens/test-output/old/Default suite/main.html
+ create mode 100644 MavenCucumberTestngSiemens/test-output/old/Default suite/methods-alphabetical.html
+ create mode 100644 MavenCucumberTestngSiemens/test-output/old/Default suite/methods-not-run.html
+ create mode 100644 MavenCucumberTestngSiemens/test-output/old/Default suite/methods.html
+ create mode 100644 MavenCucumberTestngSiemens/test-output/old/Default suite/reporter-output.html
+ create mode 100644 MavenCucumberTestngSiemens/test-output/old/Default suite/testng.xml.html
+ create mode 100644 MavenCucumberTestngSiemens/test-output/old/Default suite/toc.html
+ create mode 100644 MavenCucumberTestngSiemens/test-output/old/index.html
+ create mode 100644 MavenCucumberTestngSiemens/test-output/passed.png
+ create mode 100644 MavenCucumberTestngSiemens/test-output/skipped.png
+ create mode 100644 MavenCucumberTestngSiemens/test-output/testng-failed.xml
+ create mode 100644 MavenCucumberTestngSiemens/test-output/testng-reports.css
+ create mode 100644 MavenCucumberTestngSiemens/test-output/testng-reports.js
+ create mode 100644 MavenCucumberTestngSiemens/test-output/testng-reports1.css
+ create mode 100644 MavenCucumberTestngSiemens/test-output/testng-reports2.js
+ create mode 100644 MavenCucumberTestngSiemens/test-output/testng-results.xml
+ create mode 100644 MavenCucumberTestngSiemens/test-output/testng.css
+ create mode 100644 MavenTestNg/.classpath
+ create mode 100644 MavenTestNg/.project
+ create mode 100644 MavenTestNg/.settings/org.eclipse.core.resources.prefs
+ create mode 100644 MavenTestNg/.settings/org.eclipse.jdt.core.prefs
+ create mode 100644 MavenTestNg/.settings/org.eclipse.m2e.core.prefs
+ create mode 100644 MavenTestNg/pom.xml
+ create mode 100644 MavenTestNg/src/test/java/Selenium/HelloWorld.java
+ create mode 100644 MavenTestNg/src/test/java/Selenium/Tests.java
+ create mode 100644 MavenTestNg/target/classes/META-INF/MANIFEST.MF
+ create mode 100644 MavenTestNg/target/classes/META-INF/maven/SeleniumTestNG/SeleniumTestNG/pom.properties
+ create mode 100644 MavenTestNg/target/classes/META-INF/maven/SeleniumTestNG/SeleniumTestNG/pom.xml
+ create mode 100644 MavenTestNg/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+ create mode 100644 MavenTestNg/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+ create mode 100644 MavenTestNg/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+ create mode 100644 MavenTestNg/target/test-classes/Selenium/HelloWorld.class
+ create mode 100644 MavenTestNg/target/test-classes/Selenium/Tests.class
+ create mode 100644 MavenTestNg/test-output/Default suite/Default test.html
+ create mode 100644 MavenTestNg/test-output/Default suite/Default test.xml
+ create mode 100644 MavenTestNg/test-output/Default suite/testng-failed.xml
+ create mode 100644 MavenTestNg/test-output/bullet_point.png
+ create mode 100644 MavenTestNg/test-output/collapseall.gif
+ create mode 100644 MavenTestNg/test-output/emailable-report.html
+ create mode 100644 MavenTestNg/test-output/failed.png
+ create mode 100644 MavenTestNg/test-output/index.html
+ create mode 100644 MavenTestNg/test-output/jquery.min.js
+ create mode 100644 MavenTestNg/test-output/junitreports/TEST-Selenium.HelloWorld.xml
+ create mode 100644 MavenTestNg/test-output/junitreports/TEST-Selenium.Tests.xml
+ create mode 100644 MavenTestNg/test-output/navigator-bullet.png
+ create mode 100644 MavenTestNg/test-output/old/Default suite/Default test.properties
+ create mode 100644 MavenTestNg/test-output/old/Default suite/classes.html
+ create mode 100644 MavenTestNg/test-output/old/Default suite/groups.html
+ create mode 100644 MavenTestNg/test-output/old/Default suite/index.html
+ create mode 100644 MavenTestNg/test-output/old/Default suite/main.html
+ create mode 100644 MavenTestNg/test-output/old/Default suite/methods-alphabetical.html
+ create mode 100644 MavenTestNg/test-output/old/Default suite/methods-not-run.html
+ create mode 100644 MavenTestNg/test-output/old/Default suite/methods.html
+ create mode 100644 MavenTestNg/test-output/old/Default suite/reporter-output.html
+ create mode 100644 MavenTestNg/test-output/old/Default suite/testng.xml.html
+ create mode 100644 MavenTestNg/test-output/old/Default suite/toc.html
+ create mode 100644 MavenTestNg/test-output/old/index.html
+ create mode 100644 MavenTestNg/test-output/passed.png
+ create mode 100644 MavenTestNg/test-output/skipped.png
+ create mode 100644 MavenTestNg/test-output/testng-failed.xml
+ create mode 100644 MavenTestNg/test-output/testng-reports.css
+ create mode 100644 MavenTestNg/test-output/testng-reports.js
+ create mode 100644 MavenTestNg/test-output/testng-reports1.css
+ create mode 100644 MavenTestNg/test-output/testng-reports2.js
+ create mode 100644 MavenTestNg/test-output/testng-results.xml
+ create mode 100644 MavenTestNg/test-output/testng.css
+ create mode 100644 MavenTestNgSiemens/.classpath
+ create mode 100644 MavenTestNgSiemens/.project
+ create mode 100644 MavenTestNgSiemens/.settings/org.eclipse.core.resources.prefs
+ create mode 100644 MavenTestNgSiemens/.settings/org.eclipse.jdt.core.prefs
+ create mode 100644 MavenTestNgSiemens/.settings/org.eclipse.m2e.core.prefs
+ create mode 100644 MavenTestNgSiemens/pom.xml
+ create mode 100644 MavenTestNgSiemens/src/test/java/test/Homework.java
+ create mode 100644 MavenTestNgSiemens/target/classes/META-INF/MANIFEST.MF
+ create mode 100644 MavenTestNgSiemens/target/classes/META-INF/maven/SeleniumTestNG/SeleniumTestNG/pom.properties
+ create mode 100644 MavenTestNgSiemens/target/classes/META-INF/maven/SeleniumTestNG/SeleniumTestNG/pom.xml
+ create mode 100644 MavenTestNgSiemens/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+ create mode 100644 MavenTestNgSiemens/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+ create mode 100644 MavenTestNgSiemens/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+ create mode 100644 MavenTestNgSiemens/target/test-classes/test/Homework.class
+ create mode 100644 MavenTestNgSiemens/test-output/Default suite/Default test.html
+ create mode 100644 MavenTestNgSiemens/test-output/Default suite/Default test.xml
+ create mode 100644 MavenTestNgSiemens/test-output/Default suite/testng-failed.xml
+ create mode 100644 MavenTestNgSiemens/test-output/bullet_point.png
+ create mode 100644 MavenTestNgSiemens/test-output/collapseall.gif
+ create mode 100644 MavenTestNgSiemens/test-output/emailable-report.html
+ create mode 100644 MavenTestNgSiemens/test-output/failed.png
+ create mode 100644 MavenTestNgSiemens/test-output/index.html
+ create mode 100644 MavenTestNgSiemens/test-output/jquery.min.js
+ create mode 100644 MavenTestNgSiemens/test-output/junitreports/TEST-Selenium.HelloWorld.xml
+ create mode 100644 MavenTestNgSiemens/test-output/junitreports/TEST-Selenium.Tests.xml
+ create mode 100644 MavenTestNgSiemens/test-output/junitreports/TEST-test.Homework.xml
+ create mode 100644 MavenTestNgSiemens/test-output/navigator-bullet.png
+ create mode 100644 MavenTestNgSiemens/test-output/old/Default suite/Default test.properties
+ create mode 100644 MavenTestNgSiemens/test-output/old/Default suite/classes.html
+ create mode 100644 MavenTestNgSiemens/test-output/old/Default suite/groups.html
+ create mode 100644 MavenTestNgSiemens/test-output/old/Default suite/index.html
+ create mode 100644 MavenTestNgSiemens/test-output/old/Default suite/main.html
+ create mode 100644 MavenTestNgSiemens/test-output/old/Default suite/methods-alphabetical.html
+ create mode 100644 MavenTestNgSiemens/test-output/old/Default suite/methods-not-run.html
+ create mode 100644 MavenTestNgSiemens/test-output/old/Default suite/methods.html
+ create mode 100644 MavenTestNgSiemens/test-output/old/Default suite/reporter-output.html
+ create mode 100644 MavenTestNgSiemens/test-output/old/Default suite/testng.xml.html
+ create mode 100644 MavenTestNgSiemens/test-output/old/Default suite/toc.html
+ create mode 100644 MavenTestNgSiemens/test-output/old/index.html
+ create mode 100644 MavenTestNgSiemens/test-output/passed.png
+ create mode 100644 MavenTestNgSiemens/test-output/skipped.png
+ create mode 100644 MavenTestNgSiemens/test-output/testng-failed.xml
+ create mode 100644 MavenTestNgSiemens/test-output/testng-reports.css
+ create mode 100644 MavenTestNgSiemens/test-output/testng-reports.js
+ create mode 100644 MavenTestNgSiemens/test-output/testng-reports1.css
+ create mode 100644 MavenTestNgSiemens/test-output/testng-reports2.js
+ create mode 100644 MavenTestNgSiemens/test-output/testng-results.xml
+ create mode 100644 MavenTestNgSiemens/test-output/testng.css
+ create mode 100644 TestngSiemens/.classpath
+ create mode 100644 TestngSiemens/.project
+ create mode 100644 TestngSiemens/.settings/org.eclipse.core.resources.prefs
+ create mode 100644 TestngSiemens/.settings/org.eclipse.jdt.core.prefs
+ create mode 100644 TestngSiemens/bin/Test/NewTest1.class
+ create mode 100644 TestngSiemens/bin/Test2/NewTest2.class
+ create mode 100644 TestngSiemens/src/Test/NewTest1.java
+ create mode 100644 TestngSiemens/src/Test2/NewTest2.java
+ create mode 100644 TestngSiemens/test-output/Default suite/Default test.html
+ create mode 100644 TestngSiemens/test-output/Default suite/Default test.xml
+ create mode 100644 TestngSiemens/test-output/Default suite/testng-failed.xml
+ create mode 100644 TestngSiemens/test-output/HelloSuite/HelloTest.html
+ create mode 100644 TestngSiemens/test-output/HelloSuite/HelloTest.xml
+ create mode 100644 TestngSiemens/test-output/HelloSuite/testng-failed.xml
+ create mode 100644 TestngSiemens/test-output/Suite/Test.html
+ create mode 100644 TestngSiemens/test-output/Suite/Test.xml
+ create mode 100644 TestngSiemens/test-output/Suite/testng-failed.xml
+ create mode 100644 TestngSiemens/test-output/bullet_point.png
+ create mode 100644 TestngSiemens/test-output/collapseall.gif
+ create mode 100644 TestngSiemens/test-output/emailable-report.html
+ create mode 100644 TestngSiemens/test-output/failed.png
+ create mode 100644 TestngSiemens/test-output/index.html
+ create mode 100644 TestngSiemens/test-output/jquery.min.js
+ create mode 100644 TestngSiemens/test-output/junitreports/TEST-Test.NewTest1.xml
+ create mode 100644 TestngSiemens/test-output/junitreports/TEST-Test2.NewTest2.xml
+ create mode 100644 TestngSiemens/test-output/navigator-bullet.png
+ create mode 100644 TestngSiemens/test-output/old/Default suite/Default test.properties
+ create mode 100644 TestngSiemens/test-output/old/Default suite/classes.html
+ create mode 100644 TestngSiemens/test-output/old/Default suite/groups.html
+ create mode 100644 TestngSiemens/test-output/old/Default suite/index.html
+ create mode 100644 TestngSiemens/test-output/old/Default suite/main.html
+ create mode 100644 TestngSiemens/test-output/old/Default suite/methods-alphabetical.html
+ create mode 100644 TestngSiemens/test-output/old/Default suite/methods-not-run.html
+ create mode 100644 TestngSiemens/test-output/old/Default suite/methods.html
+ create mode 100644 TestngSiemens/test-output/old/Default suite/reporter-output.html
+ create mode 100644 TestngSiemens/test-output/old/Default suite/testng.xml.html
+ create mode 100644 TestngSiemens/test-output/old/Default suite/toc.html
+ create mode 100644 TestngSiemens/test-output/old/HelloSuite/HelloTest.properties
+ create mode 100644 TestngSiemens/test-output/old/HelloSuite/classes.html
+ create mode 100644 TestngSiemens/test-output/old/HelloSuite/groups.html
+ create mode 100644 TestngSiemens/test-output/old/HelloSuite/index.html
+ create mode 100644 TestngSiemens/test-output/old/HelloSuite/main.html
+ create mode 100644 TestngSiemens/test-output/old/HelloSuite/methods-alphabetical.html
+ create mode 100644 TestngSiemens/test-output/old/HelloSuite/methods-not-run.html
+ create mode 100644 TestngSiemens/test-output/old/HelloSuite/methods.html
+ create mode 100644 TestngSiemens/test-output/old/HelloSuite/reporter-output.html
+ create mode 100644 TestngSiemens/test-output/old/HelloSuite/testng.xml.html
+ create mode 100644 TestngSiemens/test-output/old/HelloSuite/toc.html
+ create mode 100644 TestngSiemens/test-output/old/Suite/Test.properties
+ create mode 100644 TestngSiemens/test-output/old/Suite/classes.html
+ create mode 100644 TestngSiemens/test-output/old/Suite/groups.html
+ create mode 100644 TestngSiemens/test-output/old/Suite/index.html
+ create mode 100644 TestngSiemens/test-output/old/Suite/main.html
+ create mode 100644 TestngSiemens/test-output/old/Suite/methods-alphabetical.html
+ create mode 100644 TestngSiemens/test-output/old/Suite/methods-not-run.html
+ create mode 100644 TestngSiemens/test-output/old/Suite/methods.html
+ create mode 100644 TestngSiemens/test-output/old/Suite/reporter-output.html
+ create mode 100644 TestngSiemens/test-output/old/Suite/testng.xml.html
+ create mode 100644 TestngSiemens/test-output/old/Suite/toc.html
+ create mode 100644 TestngSiemens/test-output/old/index.html
+ create mode 100644 TestngSiemens/test-output/passed.png
+ create mode 100644 TestngSiemens/test-output/skipped.png
+ create mode 100644 TestngSiemens/test-output/testng-failed.xml
+ create mode 100644 TestngSiemens/test-output/testng-reports.css
+ create mode 100644 TestngSiemens/test-output/testng-reports.js
+ create mode 100644 TestngSiemens/test-output/testng-reports1.css
+ create mode 100644 TestngSiemens/test-output/testng-reports2.js
+ create mode 100644 TestngSiemens/test-output/testng-results.xml
+ create mode 100644 TestngSiemens/test-output/testng.css
+ create mode 100644 TestngSiemens/testng.xml
+ create mode 100644 TestngUygulamam/.classpath
+ create mode 100644 TestngUygulamam/.project
+ create mode 100644 TestngUygulamam/.settings/org.eclipse.jdt.core.prefs
+ create mode 100644 TestngUygulamam/bin/day1/module1.class
+ create mode 100644 TestngUygulamam/bin/day1/module2.class
+ create mode 100644 TestngUygulamam/src/day1/module1.java
+ create mode 100644 TestngUygulamam/src/day1/module2.java
+ create mode 100644 TestngUygulamam/test-output/ClassSuite/TestClass.html
+ create mode 100644 TestngUygulamam/test-output/ClassSuite/TestClass.xml
+ create mode 100644 TestngUygulamam/test-output/ClassSuite/TestClass2.html
+ create mode 100644 TestngUygulamam/test-output/ClassSuite/TestClass2.xml
+ create mode 100644 TestngUygulamam/test-output/Default suite/Default test.html
+ create mode 100644 TestngUygulamam/test-output/Default suite/Default test.xml
+ create mode 100644 TestngUygulamam/test-output/bullet_point.png
+ create mode 100644 TestngUygulamam/test-output/collapseall.gif
+ create mode 100644 TestngUygulamam/test-output/emailable-report.html
+ create mode 100644 TestngUygulamam/test-output/failed.png
+ create mode 100644 TestngUygulamam/test-output/index.html
+ create mode 100644 TestngUygulamam/test-output/jquery.min.js
+ create mode 100644 TestngUygulamam/test-output/junitreports/TEST-day1.module1.xml
+ create mode 100644 TestngUygulamam/test-output/junitreports/TEST-day1.module2.xml
+ create mode 100644 TestngUygulamam/test-output/navigator-bullet.png
+ create mode 100644 TestngUygulamam/test-output/old/ClassSuite/TestClass.properties
+ create mode 100644 TestngUygulamam/test-output/old/ClassSuite/TestClass2.properties
+ create mode 100644 TestngUygulamam/test-output/old/ClassSuite/classes.html
+ create mode 100644 TestngUygulamam/test-output/old/ClassSuite/groups.html
+ create mode 100644 TestngUygulamam/test-output/old/ClassSuite/index.html
+ create mode 100644 TestngUygulamam/test-output/old/ClassSuite/main.html
+ create mode 100644 TestngUygulamam/test-output/old/ClassSuite/methods-alphabetical.html
+ create mode 100644 TestngUygulamam/test-output/old/ClassSuite/methods-not-run.html
+ create mode 100644 TestngUygulamam/test-output/old/ClassSuite/methods.html
+ create mode 100644 TestngUygulamam/test-output/old/ClassSuite/reporter-output.html
+ create mode 100644 TestngUygulamam/test-output/old/ClassSuite/testng.xml.html
+ create mode 100644 TestngUygulamam/test-output/old/ClassSuite/toc.html
+ create mode 100644 TestngUygulamam/test-output/old/Default suite/Default test.properties
+ create mode 100644 TestngUygulamam/test-output/old/Default suite/classes.html
+ create mode 100644 TestngUygulamam/test-output/old/Default suite/groups.html
+ create mode 100644 TestngUygulamam/test-output/old/Default suite/index.html
+ create mode 100644 TestngUygulamam/test-output/old/Default suite/main.html
+ create mode 100644 TestngUygulamam/test-output/old/Default suite/methods-alphabetical.html
+ create mode 100644 TestngUygulamam/test-output/old/Default suite/methods-not-run.html
+ create mode 100644 TestngUygulamam/test-output/old/Default suite/methods.html
+ create mode 100644 TestngUygulamam/test-output/old/Default suite/reporter-output.html
+ create mode 100644 TestngUygulamam/test-output/old/Default suite/testng.xml.html
+ create mode 100644 TestngUygulamam/test-output/old/Default suite/toc.html
+ create mode 100644 TestngUygulamam/test-output/old/index.html
+ create mode 100644 TestngUygulamam/test-output/passed.png
+ create mode 100644 TestngUygulamam/test-output/skipped.png
+ create mode 100644 TestngUygulamam/test-output/testng-reports.css
+ create mode 100644 TestngUygulamam/test-output/testng-reports.js
+ create mode 100644 TestngUygulamam/test-output/testng-reports1.css
+ create mode 100644 TestngUygulamam/test-output/testng-reports2.js
+ create mode 100644 TestngUygulamam/test-output/testng-results.xml
+ create mode 100644 TestngUygulamam/test-output/testng.css
+ create mode 100644 TestngUygulamam/testng.xml
+ create mode 100644 cucumberTestng/.classpath
+ create mode 100644 cucumberTestng/.project
+ create mode 100644 cucumberTestng/.settings/org.eclipse.jdt.core.prefs
+ create mode 100644 cucumberTestng/.settings/org.eclipse.m2e.core.prefs
+ create mode 100644 cucumberTestng/pom.xml
+ create mode 100644 cucumberTestng/src/test/java/Google/GoogleTestRunner.java
+ create mode 100644 cucumberTestng/src/test/java/Google/StepDefinition.java
+ create mode 100644 cucumberTestng/src/test/resources/features/google/google.feature
+ create mode 100644 cucumberTestng/target/classes/META-INF/MANIFEST.MF
+ create mode 100644 cucumberTestng/target/classes/META-INF/maven/cucumberTestng/cucumberTestng/pom.properties
+ create mode 100644 cucumberTestng/target/classes/META-INF/maven/cucumberTestng/cucumberTestng/pom.xml
+ create mode 100644 cucumberTestng/target/test-classes/Google/GoogleTestRunner.class
+ create mode 100644 cucumberTestng/target/test-classes/Google/StepDefinition.class
+ create mode 100644 cucumberTestng/target/test-classes/features/Google/google.feature
+ create mode 100644 cucumberTestng/test-output/Default suite/Default test.html
+ create mode 100644 cucumberTestng/test-output/Default suite/Default test.xml
+ create mode 100644 cucumberTestng/test-output/Default suite/testng-failed.xml
+ create mode 100644 cucumberTestng/test-output/bullet_point.png
+ create mode 100644 cucumberTestng/test-output/collapseall.gif
+ create mode 100644 cucumberTestng/test-output/emailable-report.html
+ create mode 100644 cucumberTestng/test-output/failed.png
+ create mode 100644 cucumberTestng/test-output/index.html
+ create mode 100644 cucumberTestng/test-output/jquery.min.js
+ create mode 100644 cucumberTestng/test-output/junitreports/TEST-Google.GoogleTestRunner.xml
+ create mode 100644 cucumberTestng/test-output/navigator-bullet.png
+ create mode 100644 cucumberTestng/test-output/old/Default suite/Default test.properties
+ create mode 100644 cucumberTestng/test-output/old/Default suite/classes.html
+ create mode 100644 cucumberTestng/test-output/old/Default suite/groups.html
+ create mode 100644 cucumberTestng/test-output/old/Default suite/index.html
+ create mode 100644 cucumberTestng/test-output/old/Default suite/main.html
+ create mode 100644 cucumberTestng/test-output/old/Default suite/methods-alphabetical.html
+ create mode 100644 cucumberTestng/test-output/old/Default suite/methods-not-run.html
+ create mode 100644 cucumberTestng/test-output/old/Default suite/methods.html
+ create mode 100644 cucumberTestng/test-output/old/Default suite/reporter-output.html
+ create mode 100644 cucumberTestng/test-output/old/Default suite/testng.xml.html
+ create mode 100644 cucumberTestng/test-output/old/Default suite/toc.html
+ create mode 100644 cucumberTestng/test-output/old/index.html
+ create mode 100644 cucumberTestng/test-output/passed.png
+ create mode 100644 cucumberTestng/test-output/skipped.png
+ create mode 100644 cucumberTestng/test-output/testng-failed.xml
+ create mode 100644 cucumberTestng/test-output/testng-reports.css
+ create mode 100644 cucumberTestng/test-output/testng-reports.js
+ create mode 100644 cucumberTestng/test-output/testng-reports1.css
+ create mode 100644 cucumberTestng/test-output/testng-reports2.js
+ create mode 100644 cucumberTestng/test-output/testng-results.xml
+ create mode 100644 cucumberTestng/test-output/testng.css
+
+C:\Users\z004du6d\Desktop\github\TestNG>git remote add origin https://github.com/Meryem-b/TestNG.git
+
+C:\Users\z004du6d\Desktop\github\TestNG>git push -u origin master
+Enumerating objects: 353, done.
+Counting objects: 100% (353/353), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (300/300), done.
+Writing objects: 100% (353/353), 119.42 KiB | 994.00 KiB/s, done.
+Total 353 (delta 143), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (143/143), done.
+To https://github.com/Meryem-b/TestNG.git
+ * [new branch]      master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+
+C:\Users\z004du6d\Desktop\github\TestNG>
